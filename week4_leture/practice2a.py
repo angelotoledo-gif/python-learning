@@ -41,3 +41,5 @@ def practice_2a_basic_stats():
     
 # Run this exercise
 practice_2a_basic_stats()
+
+# Great job, Angel!

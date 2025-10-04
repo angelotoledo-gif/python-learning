@@ -29,3 +29,6 @@ def practice_1_review():
 
 # Run the review
 practice_1_review()
+
+# Comments from instructor
+# Great job, Angelo
