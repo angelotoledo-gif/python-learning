@@ -87,3 +87,9 @@ print("✓ Work with 2D arrays (tables)")
 print("✓ Filter and find specific values")
 print("✓ Perform complete data analysis!")
 print(" "*20)
+
+'''
+Great job, keep up the good work!
+
+--Dr. X. W.
+'''

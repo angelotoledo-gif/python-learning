@@ -42,3 +42,5 @@ def practice_2b_shopping_analysis():
 
 # Run this exercise
 practice_2b_shopping_analysis()
+
+# Great job, Angel!

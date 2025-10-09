@@ -39,3 +39,5 @@ def practice_5a_temperature_analysis():
 
 # Run this exercise
 practice_5a_temperature_analysis()
+
+# Great job, Angel! Keep up the good work!--Dr X.W.
